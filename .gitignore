@@ -1,0 +1,3 @@
+# preview files
+preview-*.png
+.preview-server.pid
